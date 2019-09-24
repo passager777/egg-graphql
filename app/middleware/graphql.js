@@ -59,6 +59,7 @@ module.exports = (_, app) => {
       return graphqlKoa({
         schema: app.schema,
         context: ctx,
+        ...options
       })(ctx);
     }
     await next();
