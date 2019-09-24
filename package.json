@@ -1,5 +1,5 @@
 {
-  "name": "egg-graphql-apollo",
+  "name": "egg-graphql-refactoring",
   "version": "1.0.0",
   "description": "egg graphql plugin",
   "eggPlugin": {
@@ -62,6 +62,6 @@
     "url": "https://github.com/eggjs/egg/issues"
   },
   "homepage": "https://github.com/eggjs/egg-graphql#readme",
-  "author": "jtyjty99999",
+  "author": "liuzhibin",
   "license": "MIT"
 }
