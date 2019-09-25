@@ -1,6 +1,6 @@
 {
   "name": "egg-graphql-refactoring",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "egg graphql plugin",
   "eggPlugin": {
     "name": "graphql"
